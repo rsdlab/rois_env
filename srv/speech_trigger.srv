@@ -1,0 +1,4 @@
+int32[] triggers
+---
+bool success
+string message

@@ -1,0 +1,5 @@
+string  component_ref
+float64[] target_position
+---
+string  Returncode_t
+string  command_id

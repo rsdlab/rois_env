@@ -1,0 +1,5 @@
+int32[] line
+int32[] curve
+---
+string Returncode_t
+string  command_id

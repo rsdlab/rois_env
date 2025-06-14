@@ -1,0 +1,4 @@
+string event_id
+---
+string timestamp
+string recognized_text
