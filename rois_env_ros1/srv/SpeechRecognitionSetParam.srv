@@ -1,0 +1,23 @@
+#Command Method
+##set_parameter Specifies speech recognition paramters.
+###argument languages Set<String> [ISO639-1] M Specifies languages the speech recognizer will recognize.
+###argument grammer String O Specifies grammar for the speech recognizer.
+###argument rule String O Specifies active rule in the grammer.
+#Query Method
+##get_parameter Obtains speech recognition paramters.
+###result recognizable languages Set<String> [ISO639-1] M Obtains languages the speech recognizer can recognize.
+###result languages Set<String> [ISO639-1] M Obtains languages the speech recognizer recognizes.
+###result grammer String O Obtains grammar for the speech recognizer.
+###result rule String O Obtains active rule in the grammer.
+#Event Method
+##speech_recognized Notifies recognized result when the speech has been recognized.
+###result timestamp DateTime [ISO8601] M Time when the recognition has completed.
+###result recognized text List<String> M List of speech recognition results. The result is provided as string data. For the speech recognition algorithm which can only output one candidate, returning a list filled with one result is recommended. String of recognized text can contain either a word or a sentence.
+##speech_input_started Notifies the recognizer has detected start of speech input.
+###result timestamp DateTime [ISO8601] M Time when the speech input has started.
+##speech_input_finished Notifies the recognizer has detected end of speech input.
+###result  timestamp DateTime [ISO8601] M Time when the speech input has ended. 
+
+string languages
+---
+string set_return

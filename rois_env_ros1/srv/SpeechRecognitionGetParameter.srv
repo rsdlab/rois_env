@@ -1,0 +1,6 @@
+string  component_ref
+---
+string returncode_t
+string[] recognizable_languages
+string languages
+

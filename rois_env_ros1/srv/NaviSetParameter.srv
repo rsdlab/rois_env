@@ -1,0 +1,6 @@
+#service_app-MainEngine
+string  component_ref
+NavigationTarget[] target_position
+---
+string  returncode_t
+string  command_id

@@ -1,0 +1,5 @@
+string event_id
+---
+string timestamp
+string[] person_ref
+float32[] position_data

@@ -1,0 +1,5 @@
+# MainEngine-HRIコンポーネント
+string object_id
+float64 grasp_force
+---
+string set_return

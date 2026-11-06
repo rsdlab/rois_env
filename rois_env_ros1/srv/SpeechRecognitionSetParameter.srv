@@ -1,0 +1,6 @@
+string  component_ref
+string languages
+
+---
+string returncode_t
+string  command_id

@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/rsdlab/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/rsdlab/catkin_ws/src/airec_hri/include/**",
+        "/home/rsdlab/catkin_ws/src/camera_publisher/include/**",
+        "/home/rsdlab/catkin_ws/src/camera_viewer/include/**",
+        "/home/rsdlab/catkin_ws/src/seed_r7_ros_pkg/seed_r7_ros_controller/include/**",
+        "/home/rsdlab/catkin_ws/src/seed_smartactuator_sdk/include/**",
+        "/home/rsdlab/catkin_ws/src/sensor_system/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
