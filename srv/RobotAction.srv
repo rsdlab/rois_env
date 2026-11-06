@@ -1,5 +1,0 @@
-# RobotAction.srv
-
-string action_name
----
-bool success

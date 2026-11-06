@@ -1,5 +1,0 @@
-string command_name #command_unit_list
----
-string success  #Returncode_t
----
-int32 status

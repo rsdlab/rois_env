@@ -1,3 +1,0 @@
-string event_id
-string event_type
-string subscribe_id

@@ -1,6 +1,0 @@
-string  component_ref
-string languages
-
----
-string Returncode_t
-string  command_id

@@ -1,6 +1,0 @@
-string  component_ref
----
-string Returncode_t
-string[] recognizable_languages
-string languages
-
