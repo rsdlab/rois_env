@@ -1,0 +1,7 @@
+#Navigation用RobotAction
+
+string command
+NavigationTarget[] target_position
+---
+bool success
+string status

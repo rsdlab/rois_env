@@ -1,0 +1,5 @@
+string trigger
+---
+string result
+string timestamp
+int8 number

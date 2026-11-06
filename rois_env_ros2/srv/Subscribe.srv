@@ -1,0 +1,4 @@
+string event_type
+---
+string returncode_t
+string subscribe_id

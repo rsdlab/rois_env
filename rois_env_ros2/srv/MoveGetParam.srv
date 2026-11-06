@@ -1,0 +1,7 @@
+# MainEngine-HRIコンポーネント
+
+---
+string returncode_t
+int32[] line
+int32[] curve
+uint64 time

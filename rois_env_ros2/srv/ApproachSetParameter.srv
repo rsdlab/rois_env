@@ -1,0 +1,5 @@
+string  component_ref
+string approach_command
+---
+string returncode_t
+string  command_id

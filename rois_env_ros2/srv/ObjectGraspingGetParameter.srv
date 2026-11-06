@@ -1,0 +1,6 @@
+#service_app-MainEngine
+string component_ref
+---
+string returncode_t
+string object_id
+float64 grasp_force

@@ -1,0 +1,7 @@
+#HRIコンポーネントー_action
+
+string language
+---
+bool success
+string status
+string recognized_text

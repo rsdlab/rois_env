@@ -1,0 +1,4 @@
+string  component_ref
+---
+string returncode_t
+string speech_text

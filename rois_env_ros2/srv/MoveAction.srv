@@ -1,0 +1,9 @@
+#Move用RobotAction（HRIコンポーネントー_action）
+
+string command
+int32[] line
+int32[] curve
+uint64 time
+---
+bool success
+string status

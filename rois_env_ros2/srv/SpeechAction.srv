@@ -1,0 +1,7 @@
+#HRIコンポーネントー_action
+
+string command
+string speech_text
+---
+bool success
+string status

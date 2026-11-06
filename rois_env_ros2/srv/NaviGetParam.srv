@@ -1,0 +1,5 @@
+# MainEngine-HRIコンポーネント
+
+---
+string returncode_t
+NavigationTarget[] target_position
