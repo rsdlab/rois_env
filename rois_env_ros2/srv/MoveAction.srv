@@ -1,8 +1,8 @@
 #Move用RobotAction（HRIコンポーネントー_action）
 
 string command
-int32[] line
-int32[] curve
+float64[] line
+float64[] curve
 uint64 time
 ---
 bool success

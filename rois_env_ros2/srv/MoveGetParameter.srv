@@ -2,6 +2,6 @@
 string component_ref
 ---
 string returncode_t
-int32[] line
-int32[] curve
+float64[] line
+float64[] curve
 uint64 time
